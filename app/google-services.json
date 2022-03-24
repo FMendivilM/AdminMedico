@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294201384207",
+    "firebase_url": "https://admin-medico.firebaseio.com",
+    "project_id": "admin-medico",
+    "storage_bucket": "admin-medico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294201384207:android:72d617fcb6f116157f727a",
+        "android_client_info": {
+          "package_name": "com.example.adminmedico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294201384207-db4462nie3iak5e901uq3ivfrued81j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHIKBqZAfpRSvETpfrrLwhAeiGwKNvuis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294201384207-db4462nie3iak5e901uq3ivfrued81j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
